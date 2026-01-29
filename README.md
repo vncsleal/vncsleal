@@ -8,7 +8,6 @@
 
 </div>
 
----
 
 ## About Me
 
@@ -25,7 +24,6 @@ I build libraries, starters, developer tools, and much more. I ship early, itera
 | **Languages**    | TypeScript, JavaScript, Python, SQL |
 | **Other**        | UI/UX Design, SaaS Architecture, AI/ML Integration |
 
----
 
 ## My Philosophy
 
@@ -35,7 +33,6 @@ I build libraries, starters, developer tools, and much more. I ship early, itera
 - Open-source is gold. Let's build together.
 - Experimentation goes along with theory. Fail fast, learn faster.
 
----
 
 ## Let's Connect!
 
@@ -43,11 +40,3 @@ I'm always open to collaborations, feedback, or just chatting about tech. Whethe
 
 - **Location**: São Paulo, Brazil 🇧🇷
 - **Hireable**: Yes! Open to opportunities.
-
----
-
-<div align="center">
-
-Made with ❤️ by Vinicius Leal.
-
-</div>
