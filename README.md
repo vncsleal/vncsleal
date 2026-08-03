@@ -2,7 +2,8 @@
 
 Indie developer. TypeScript, mostly.
 
-Schema first. Type system as architecture. The stack follows from that — structured content models, typed ORMs, reactive runtimes, ML artifacts that stay inside the TypeScript boundary. Developer tooling, open-source UI components, agentic workflows.
+Schema first. Type system as architecture. Structured content models, reactive runtimes, ML artifacts.
+Developer tooling, open-source UI components, agentic workflows.
 
 ---
 
